@@ -1,0 +1,143 @@
+email_index,subject,ioc_type,ioc_value,malicious,suspicious,score
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,ip,70.96.188.24,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,domain,cgi1.ebay.com,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,domain,include.ebaystatic.com,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,domain,pages.ebay.com,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,domain,pics.ebaystatic.com,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,url,http://70.96.188.24/~backfoul/secure/aw-cgi/DllUpdate/ws2/ISAPIDll/signin/error.html,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,url,http://cgi1.ebay.com/aw-cgi/ebayISAPI.dll?UPdate,0,0,0.0
+1,TKO Notice: ***Urgent Safeharbor Department Notice*** ,url,http://include.ebaystatic.com/aw/pics/js/stats/ss.js,0,0,0.0
+2,ATM cards attention. conformation code? yftue  fvkg ts r,domain,lasallebank-online.com,0,0,0.0
+2,ATM cards attention. conformation code? yftue  fvkg ts r,domain,www.lasallebank-online.com,0,0,0.0
+2,ATM cards attention. conformation code? yftue  fvkg ts r,url,http://lasallebank-online.com/,0,0,0.0
+2,ATM cards attention. conformation code? yftue  fvkg ts r,url,https://www.lasallebank-online.com/,0,0,0.0
+3,Imporant information for LaSalle Bank Customers conformation code? rouhevzrkjd mp,domain,lasallebank-online.com,0,0,0.0
+3,Imporant information for LaSalle Bank Customers conformation code? rouhevzrkjd mp,domain,www.lasallebank-online.com,0,0,0.0
+3,Imporant information for LaSalle Bank Customers conformation code? rouhevzrkjd mp,url,http://lasallebank-online.com/,0,0,0.0
+3,Imporant information for LaSalle Bank Customers conformation code? rouhevzrkjd mp,url,https://www.lasallebank-online.com/,0,0,0.0
+4,SOUTHTRUST BANK - URGENT SECURITY NOTICE,ip,202.99.223.139,0,0,0.0
+4,SOUTHTRUST BANK - URGENT SECURITY NOTICE,domain,www.southtrust.com,0,0,0.0
+4,SOUTHTRUST BANK - URGENT SECURITY NOTICE,url,http://202.99.223.139/rpm/,1,0,1.0
+4,SOUTHTRUST BANK - URGENT SECURITY NOTICE,url,https://www.southtrust.com/st/PersonalBanking/custdetailsconfirmation,0,0,0.0
+4,SOUTHTRUST BANK - URGENT SECURITY NOTICE,attachment_sha256,buckskin.GIF (9aca12953326...),0,0,0.0
+5,youe eBay account could be suspended due Updates.,ip,62.193.219.73,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,adfarm.mediaplex.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,altfarm.mediaplex.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,cgi4.ebay.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,pages.ebay.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,pics.ebaystatic.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,secureinclude.ebaystatic.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,securepics.ebaystatic.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,domain,www2.ebay.com,0,0,0.0
+5,youe eBay account could be suspended due Updates.,url,http://62.193.219.73/acounts/memb/avncenter/dll87443/.BayISAPI.dll/hgdas676bsda6gwcv7zfcwfcwf34gfwf23g235f134f3fg3f&bhdfahva68532hbhwseBayISAPI.dllPaymentLanding&ssPageName=hhpayUSf&=userhgads&secure&ssl7r2vbd7d5b.html,0,0,0.0
+5,youe eBay account could be suspended due Updates.,url,http://cgi4.ebay.com/ws1/eBayISAPI.dll,0,0,0.0
+5,youe eBay account could be suspended due Updates.,url,http://pages.ebay.com/community/aboutebay/?ssPageName=f:f:US,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,cgi4.ebay.com,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,confirm-ebaymain.com,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,include.ebay.com,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,pages.ebay.com,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,pics.ebay.com,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,domain,pics.ebaycom,err,err,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,url,http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow&ssPageName=f:f:reg:US,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,url,http://confirm-ebaymain.com/?eBaylSAPI.dll&VerifyRegistration,0,0,0.0
+6,Important information for eBay users.Read Inside. conformation code  zrxdqg g,url,http://include.ebay.com/aw/pics/js/stats/ss.js,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,cgi4.ebay.com,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,confirm-ebaymain.com,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,include.ebay.com,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,pages.ebay.com,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,pics.ebay.com,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,domain,pics.ebaycom,err,err,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,url,http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow&ssPageName=f:f:reg:US,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,url,http://confirm-ebaymain.com/?eBaylSAPI.dll&VerifyRegistration,0,0,0.0
+7,Important system update conformation code cjmpdbseqeudfu xj,url,http://include.ebay.com/aw/pics/js/stats/ss.js,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,cgi4.ebay.com,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,confirm-ebaymain.com,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,include.ebay.com,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,pages.ebay.com,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,pics.ebay.com,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,domain,pics.ebaycom,err,err,0.0
+8,Information about your eBay account. conformation code zfliichgep,url,http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow&ssPageName=f:f:reg:US,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,url,http://confirm-ebaymain.com/?eBaylSAPI.dll&VerifyRegistration,0,0,0.0
+8,Information about your eBay account. conformation code zfliichgep,url,http://include.ebay.com/aw/pics/js/stats/ss.js,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,ip,80.253.192.38,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,domain,pics.ebaystatic.com,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,domain,scgi.ebay.com,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,domain,www.ebay.com,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,domain,www.w3.org,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,url,http://80.253.192.38/ebay/,0,1,0.5
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,url,http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif,0,0,0.0
+9,=?ISO-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyAgICA0bA==?=,url,http://scgi.ebay.com/verify_id�=ebay,0,0,0.0
+10,How will you spend your 500 at eBay,domain,c.holycowsavings.com,0,0,0.0
+10,How will you spend your 500 at eBay,domain,sweepsrewards.com,0,1,0.5
+10,How will you spend your 500 at eBay,url,http://c.holycowsavings.com/WIN_3900F?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=vnde&list_id=115&date=2005-06-17,0,0,0.0
+10,How will you spend your 500 at eBay,url,http://c.holycowsavings.com/WIN_3905E?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=vnde&list_id=115&date=2005-06-17,0,0,0.0
+10,How will you spend your 500 at eBay,url,http://sweepsrewards.com/abuse/sweepsrewards/908824033/85.,0,0,0.0
+11,Important system update conformation code qrtw,domain,cgi4.ebay.com,0,0,0.0
+11,Important system update conformation code qrtw,domain,confirm-ebaymain.com,0,0,0.0
+11,Important system update conformation code qrtw,domain,include.ebay.com,0,0,0.0
+11,Important system update conformation code qrtw,domain,pages.ebay.com,0,0,0.0
+11,Important system update conformation code qrtw,domain,pics.ebay.com,0,0,0.0
+11,Important system update conformation code qrtw,domain,pics.ebaycom,err,err,0.0
+11,Important system update conformation code qrtw,url,http://cgi4.ebay.com/aw-cgi/eBayISAPI.dll?RegisterShow&ssPageName=f:f:reg:US,0,0,0.0
+11,Important system update conformation code qrtw,url,http://confirm-ebaymain.com/?eBaylSAPI.dll&VerifyRegistration,0,0,0.0
+11,Important system update conformation code qrtw,url,http://include.ebay.com/aw/pics/js/stats/ss.js,0,0,0.0
+12,Security Center Advisory,ip,203.234.39.64,0,0,0.0
+12,Security Center Advisory,domain,images.paypal.com,0,0,0.0
+12,Security Center Advisory,domain,www.paypal.com,0,0,0.0
+12,Security Center Advisory,url,http://203.234.39.64/cgi_bin/webscr=cmd=_home/,0,0,0.0
+12,Security Center Advisory,url,http://images.paypal.com/en_US/i/logo/email_logo.gif,0,0,0.0
+12,Security Center Advisory,url,http://images.paypal.com/images/bg_clk.gif,0,0,0.0
+13,Urgent PayPal security notification,ip,61.129.33.105,0,0,0.0
+13,Urgent PayPal security notification,domain,images.paypal.com,0,0,0.0
+13,Urgent PayPal security notification,domain,www.paypal.com,0,0,0.0
+13,Urgent PayPal security notification,domain,www.paypal.com-cgi-bin.biz,0,0,0.0
+13,Urgent PayPal security notification,domain,www.paypalllaa.biz,0,0,0.0
+13,Urgent PayPal security notification,url,http://61.129.33.105/secured_site/paypal.com/index.php,0,1,0.5
+13,Urgent PayPal security notification,url,http://images.paypal.com/en_US/i/logo/email_logo.gif,0,0,0.0
+13,Urgent PayPal security notification,url,http://images.paypal.com/en_US/i/scr/pixel.gif,0,0,0.0
+14,System maintenance: update your Federal Credit Union,domain,search.ncua.gov,0,0,0.0
+14,System maintenance: update your Federal Credit Union,domain,www.intracon.com,0,0,0.0
+14,System maintenance: update your Federal Credit Union,domain,www.ncua.gov,0,0,0.0
+14,System maintenance: update your Federal Credit Union,url,http://search.ncua.gov/,0,0,0.0
+14,System maintenance: update your Federal Credit Union,url,http://www.intracon.com/www.ncua.gov/update.php,1,0,1.0
+14,System maintenance: update your Federal Credit Union,url,http://www.ncua.gov/#PageNavigation,err,err,0.0
+15,Account Notice - Suspicous Activity,domain,cgi3.ebay.com,0,0,0.0
+15,Account Notice - Suspicous Activity,domain,pages.ebay.com,0,0,0.0
+15,Account Notice - Suspicous Activity,domain,pics.ebaystatic.com,0,0,0.0
+15,Account Notice - Suspicous Activity,domain,www.ebay.com,0,0,0.0
+15,Account Notice - Suspicous Activity,domain,www.mem.cc,0,0,0.0
+15,Account Notice - Suspicous Activity,url,http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:11,0,0,0.0
+15,Account Notice - Suspicous Activity,url,http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?OptinLoginShow&ssPageName=ADME:X:EOAS:US:12,0,0,0.0
+15,Account Notice - Suspicous Activity,url,http://pages.ebay.com/help/policies/privacy-policy.html?ssPageName=ADME:X:EOAS:US:14,0,0,0.0
+16,How will you spend your 500 at eBay,domain,c.holycowsavings.com,0,0,0.0
+16,How will you spend your 500 at eBay,url,http://c.holycowsavings.com/WIN_3900F?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=vnde&list_id=89&date=2005-06-20,0,0,0.0
+16,How will you spend your 500 at eBay,url,http://c.holycowsavings.com/WIN_3905E?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=vnde&list_id=89&date=2005-06-20,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,ip,218.94.38.201,0,1,0.5
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,domain,pics.ebaystatic.com,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,domain,scgi.ebay.com,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,domain,www.ebay.com,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,domain,www.w3.org,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,url,http://218.94.38.201/ebay/,1,1,1.5
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,url,http://pics.ebaystatic.com/aw/pics/navbar/eBayLogoTM.gif,0,0,0.0
+17,=?iso-8859-1?b?RWJheSBBY2NvdW50IFJldmlldyBEZXBhcnRtZW50ICAgIHk1?=,url,http://scgi.ebay.com/verify_id�=ebay,0,0,0.0
+18,Update your eBay account!,domain,cgi1.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,click3.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,ebay.doubleclick.net,0,0,0.0
+18,Update your eBay account!,domain,emailpics3.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,hate-inside.net,0,0,0.0
+18,Update your eBay account!,domain,my.ebay.com:80,err,err,0.0
+18,Update your eBay account!,domain,pages.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,pics.ebaystatic.com,0,0,0.0
+18,Update your eBay account!,domain,scgi.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,secureinclude.ebaystatic.com,0,0,0.0
+18,Update your eBay account!,domain,securepics.ebaystatic.com,0,0,0.0
+18,Update your eBay account!,domain,signin.ebay,err,err,0.0
+18,Update your eBay account!,domain,signin.ebay.com,0,0,0.0
+18,Update your eBay account!,domain,srv.main.ebayrtm.com,0,0,0.0
+18,Update your eBay account!,domain,www.ebay.com,0,0,0.0
+18,Update your eBay account!,url,http://cgi1.ebay.com/aw-cgi/eBayISAPI.dll?MyEbayLogin&ssPageName=ADME:B:DS:US:11,0,0,0.0
+18,Update your eBay account!,url,http://click3.ebay.com/313644515.55780.0.22085,0,0,0.0
+18,Update your eBay account!,url,http://click3.ebay.com/313644515.55780.0.40451,0,0,0.0
+19,Get The Power Of A Visa Card Today,domain,c.holycowsavings.com,0,0,0.0
+19,Get The Power Of A Visa Card Today,url,http://c.holycowsavings.com/WIN_4007C?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=impl&list_id=89&date=2005-06-20,0,0,0.0
+19,Get The Power Of A Visa Card Today,url,http://c.holycowsavings.com/WIN_4008B?email=jose_at_monkey.org&_a=c&k=n&q=y&campaign=impl&list_id=89&date=2005-06-20,0,0,0.0
